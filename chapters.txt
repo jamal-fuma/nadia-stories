@@ -1,4 +1,57 @@
-Title:  The Princess and the
+Title:  'The Princess who stepped in poop'
+
+Scenes
+
+Queens and Kings, "the place you'll never forget"
+
+
+Characters:
+
+King William:
+    Age 100
+    America
+    Job:
+
+Princess Precilla:
+    Age 5
+    Korea
+
+Guards:
+    Guard 1:
+        Steve
+        London
+        Age 18
+        Reason for enlisting:
+           To see the world and travel.
+    Guard 2:
+        Martin
+        London
+        Age 31
+        Reason for enlisting:
+            To search for a truly magnificant cheese unlike any cheese he'd yet tasted.
+
+    Guard 3:
+          Max
+          California USA
+          Age 16
+          Reason for enlisting:
+            To meet fairies and get to fly.
+
+    Guard 4:
+          Lexy
+          Finland
+          Age 42
+          Reason for enlisting:
+            He enjoyed being bossed around.
+
+    Guard 5:
+          Luke
+          California USA
+          Age 53
+          Reason for enlisting:
+            Safest place to be if it all kicked off
+
+
 
 Once apon a time there was a princess who loved going into the garden barefoot.
 She never ever brought her shoes with her.,
